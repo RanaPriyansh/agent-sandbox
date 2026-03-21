@@ -1,8 +1,8 @@
-# Thielon Agent Sandbox
+# Agent Sandbox
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github)](https://github.com/thielon-apps/thielon-agent-sandbox)
-[![License](https://img.shields.io/github/license/thielon-apps/thielon-agent-sandbox)](https://github.com/thielon-apps/thielon-agent-sandbox/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/thielon-apps/thielon-agent-sandbox)](https://github.com/thielon-apps/thielon-agent-sandbox/commits/main)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github)](https://github.com/RanaPriyansh/agent-sandbox)
+[![License](https://img.shields.io/github/license/RanaPriyansh/agent-sandbox)](https://github.com/RanaPriyansh/agent-sandbox/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/RanaPriyansh/agent-sandbox)](https://github.com/RanaPriyansh/agent-sandbox/commits/main)
 
 Secure execution environment for untrusted agent code. Run agents in isolation with resource limits, network restrictions, and capability-based security.
 
@@ -18,7 +18,7 @@ Secure execution environment for untrusted agent code. Run agents in isolation w
 ## Quick Start
 
 ```python
-from thielon_sandbox import Sandbox
+from agent_sandbox import Sandbox
 
 # Create sandbox with limits
 sandbox = Sandbox(
@@ -44,3 +44,7 @@ Agents are powerful and potentially dangerous. This sandbox:
 ## License
 
 MIT
+
+---
+
+Built with ❤️ by Thielon
